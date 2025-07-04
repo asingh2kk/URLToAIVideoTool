@@ -1,7 +1,3 @@
-# AI Video Generator
-
-An AI-powered video generator that creates engaging videos from any URL. The application extracts content, summarizes it, generates relevant images and voiceovers, and synchronizes transcription to create a reel-like video.
-
 ## Features
 
 - **AI-Powered Content Generation**: Extracts and summarizes content from any URL using GPTScript.
