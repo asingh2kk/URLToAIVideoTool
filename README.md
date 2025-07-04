@@ -89,9 +89,3 @@ ai-video-generator/
 3. **Video Compilation**:
    - Uses FFMPEG to combine images, audio, and text into video segments.
    - Merges segments into a final MP4 video with a polished look.
-
-## Troubleshooting
-
-- Ensure `ffmpeg` is installed and accessible in your system PATH.
-- Use `pnpm` for consistent dependency management if `npm` causes issues.
-- Check backend logs for detailed error messages during asset generation.
