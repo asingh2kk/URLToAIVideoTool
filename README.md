@@ -9,12 +9,12 @@
 ## Tech Stack
 
 ### Frontend
-- **React.js**
+- **React**
 - **TailwindCSS** for custom styling
 
 ### Backend
 - **Node.js**
-- **Express.js**
+- **Express**
 
 ### AI & Video Tools
 - **GPTScript** for AI-generated content and images
