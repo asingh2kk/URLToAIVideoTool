@@ -60,23 +60,6 @@
 2. Enter a URL in the input field and submit.
 3. The application will process the URL, generate assets, and produce a downloadable video.
 
-## Directory Structure
-
-```plaintext
-ai-video-generator/
-|-- frontend/
-|   |-- src/
-|   |-- public/
-|   |-- ...
-|-- backend/
-|   |-- routes/
-|   |-- utils/
-|   |-- ...
-|-- README.md
-|-- package.json
-|-- ...
-```
-
 ## Key Functionalities
 
 1. **URL Content Processing**:
